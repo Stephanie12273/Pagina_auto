@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "sweetalert2": "^11.10.5"
+  },
+  "devDependencies": {
+    "chart.js": "^4.4.2"
+  }
+}
